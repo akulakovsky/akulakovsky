@@ -6,20 +6,19 @@
   </a><br>
 </p>
 
+<h1 style="text-align: center;" align="center"> Socials </h1> <br>
+
+<a href="https://discord.bio/p/sgg">
+  <img align="left" alt="Discord" width="21px" src="https://raw.githubusercontent.com/epicgamersgg/epicgamersgg/0e566c7ef6fdaa30c4b79fec47d269e685686b63/assets/discord.svg" />
+</a>
+<a href="https://www.twitch.tv/shredgnargames">
+  <img align="left" alt="Twitch" width="21px" src="https://raw.githubusercontent.com/epicgamersgg/epicgamersgg/0e566c7ef6fdaa30c4b79fec47d269e685686b63/assets/twitch.svg" />
+</a>
+<a href="https://www.youtube.com/channel/UCuQbhNWFb9hpHFO_uwuG-Ng">
+  <img align="left" alt="YouTube" width="21px" src="https://raw.githubusercontent.com/epicgamersgg/epicgamersgg/0e566c7ef6fdaa30c4b79fec47d269e685686b63/assets/youtube.svg" />
+</a>
+
 <div class="display">
-<h1 style="text-align: center;" align="center"> Socials </h1>
-  <div style="margin:0 auto">
-    <a href="https://discord.bio/p/sgg">
-      <img style="display: block; margin-left: auto; margin-right: auto;" align="middle" alt="Discord" width="21px" src="https://raw.githubusercontent.com/epicgamersgg/epicgamersgg/0e566c7ef6fdaa30c4b79fec47d269e685686b63/assets/discord.svg" />
-    </a><br>
-    <a href="https://www.twitch.tv/shredgnargames">
-      <img style="display: block; margin-left: auto; margin-right: auto;" align="middle" alt="Twitch" width="21px" src="https://raw.githubusercontent.com/epicgamersgg/epicgamersgg/0e566c7ef6fdaa30c4b79fec47d269e685686b63/assets/twitch.svg" />
-    </a><br>
-    <a href="https://www.youtube.com/channel/UCuQbhNWFb9hpHFO_uwuG-Ng">
-      <img style="display: block; margin-left: auto; margin-right: auto;" align="middle" alt="YouTube" width="21px" src="https://raw.githubusercontent.com/epicgamersgg/epicgamersgg/0e566c7ef6fdaa30c4b79fec47d269e685686b63/assets/youtube.svg" />
-    </a><br>
-  </div>
-  
 <h1 style="width:800px; text-align: center;" align="center"> Projects </h1>
   <a href="http://statify.ga"> <p style="text-align: center;"align="center">Statify<br></p></>
 </div>
