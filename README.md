@@ -1,4 +1,4 @@
-<h1 style="text-align: center;" align="center"> My Profile :D </h1> <br>
+<h1 style="text-align: center;" align="center"> My Profile </h1> <br>
 
 <p align="center">
   <a>
