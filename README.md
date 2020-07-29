@@ -16,7 +16,6 @@
   </a>
   <a href="https://www.youtube.com/channel/UCuQbhNWFb9hpHFO_uwuG-Ng">
     <img alt="YouTube" width="21px" src="https://raw.githubusercontent.com/epicgamersgg/epicgamersgg/0e566c7ef6fdaa30c4b79fec47d269e685686b63/assets/youtube.svg" style="margin-left: 20px; margin-right: 20px">
-    <img alt="YouTube" width="21px" src="https://raw.githubusercontent.com/epicgamersgg/epicgamersgg/0e566c7ef6fdaa30c4b79fec47d269e685686b63/assets/youtube.svg" />
   </a>
 </p>
 
