@@ -7,16 +7,17 @@
 </p>
 
 <h1 style="text-align: center;" align="center"> Socials </h1> <br>
-
-<a href="https://discord.bio/p/sgg">
-  <img align="left" alt="Discord" width="21px" src="https://raw.githubusercontent.com/epicgamersgg/epicgamersgg/0e566c7ef6fdaa30c4b79fec47d269e685686b63/assets/discord.svg" />
-</a>
-<a href="https://www.twitch.tv/shredgnargames">
-  <img align="left" alt="Twitch" width="21px" src="https://raw.githubusercontent.com/epicgamersgg/epicgamersgg/0e566c7ef6fdaa30c4b79fec47d269e685686b63/assets/twitch.svg" />
-</a>
-<a href="https://www.youtube.com/channel/UCuQbhNWFb9hpHFO_uwuG-Ng">
-  <img align="left" alt="YouTube" width="21px" src="https://raw.githubusercontent.com/epicgamersgg/epicgamersgg/0e566c7ef6fdaa30c4b79fec47d269e685686b63/assets/youtube.svg" />
-</a>
+<p align="center">
+  <a href="https://discord.bio/p/sgg">
+    <img alt="Discord" width="21px" src="https://raw.githubusercontent.com/epicgamersgg/epicgamersgg/0e566c7ef6fdaa30c4b79fec47d269e685686b63/assets/discord.svg" />
+  </a>
+  <a href="https://www.twitch.tv/shredgnargames">
+    <img align="left" alt="Twitch" width="21px" src="https://raw.githubusercontent.com/epicgamersgg/epicgamersgg/0e566c7ef6fdaa30c4b79fec47d269e685686b63/assets/twitch.svg" />
+  </a>
+  <a href="https://www.youtube.com/channel/UCuQbhNWFb9hpHFO_uwuG-Ng">
+    <img align="left" alt="YouTube" width="21px" src="https://raw.githubusercontent.com/epicgamersgg/epicgamersgg/0e566c7ef6fdaa30c4b79fec47d269e685686b63/assets/youtube.svg" />
+  </a>
+</p>
 
 <div class="display">
 <h1 style="width:800px; text-align: center;" align="center"> Projects </h1>
