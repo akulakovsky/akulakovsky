@@ -12,10 +12,10 @@
     <img alt="Discord" width="21px" src="https://raw.githubusercontent.com/epicgamersgg/epicgamersgg/0e566c7ef6fdaa30c4b79fec47d269e685686b63/assets/discord.svg" />
   </a>
   <a href="https://www.twitch.tv/shredgnargames">
-    <img align="left" alt="Twitch" width="21px" src="https://raw.githubusercontent.com/epicgamersgg/epicgamersgg/0e566c7ef6fdaa30c4b79fec47d269e685686b63/assets/twitch.svg" />
+    <img alt="Twitch" width="21px" src="https://raw.githubusercontent.com/epicgamersgg/epicgamersgg/0e566c7ef6fdaa30c4b79fec47d269e685686b63/assets/twitch.svg" />
   </a>
   <a href="https://www.youtube.com/channel/UCuQbhNWFb9hpHFO_uwuG-Ng">
-    <img align="left" alt="YouTube" width="21px" src="https://raw.githubusercontent.com/epicgamersgg/epicgamersgg/0e566c7ef6fdaa30c4b79fec47d269e685686b63/assets/youtube.svg" />
+    <img alt="YouTube" width="21px" src="https://raw.githubusercontent.com/epicgamersgg/epicgamersgg/0e566c7ef6fdaa30c4b79fec47d269e685686b63/assets/youtube.svg" />
   </a>
 </p>
 
